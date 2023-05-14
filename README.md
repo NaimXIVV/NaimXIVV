@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NaimXIVV
+- 👀 I’m interested in DevOPS and programmation in general
+- 🌱 I’m currently learning HTML5,CSS3 and others languages with Open Classrooms,W3School
+- French Student
